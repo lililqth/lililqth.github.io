@@ -1,35 +1,37 @@
-// Comment is available in asciidoc.
+:title: Ji Qi's Webpage
+// :author: Ji Qi
+:description: Ji Qi's personal academic homepage.
 
-// [.text-center]
-= Ji Qi
 
 
-image:prof_pic.jpg[alt="not bad.",width=128,height=128]
+image:prof_pic.jpg[alt="jqi",width=100,height=100, role="related thumb right"]
+
+== Ji Qi
+
+http://www.is.cas.cn/[Institute of Software] +
+https://www.cas.cn/[Chinese Academy of Sciences] +
+Email (work): +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
+
+---
+
+
 
 I am a research assistant professor at Institute of Software, Chinese Academy of Sciences.
 
-**Research Interests:**
+*Research Interests:*
 
 I am broadly interested in operating system, distributed systems, networking,
 and security. Recently, I have been focusing on the operating system support for
 heterogeneous multi-processor architecture.
 
-**Previously:**
+*Previously:*
 
 I received my Ph.D. degree in the Department of Computer Science at The
 University of Hong Kong (my supervisor is https://i.cs.hku.hk/~heming/[Prof.
 Heming Cui]), where I created secure and high-performance distributed systems
-such as the in-datacenter permissioned blockchain system. I received my Master
-degree in School of Software at Tsinghua University, where I worked with
+such as the in-datacenter permissioned blockchain. I received my Master degree
+in School of Software at Tsinghua University, where I worked with
 https://www.thss.tsinghua.edu.cn/faculty/luoguiming.htm[Prof. Kueiming Lo] on
 formal modeling and analysis of network protocols. Before that I received my
 Bachelor degree in School of Software at Beijing Institute of Technology.
 
-
-// pass:[<i class="fa fa-github"></i>]
-
-
-[%collapsible]
-====
-This content is only revealed when the user clicks the block title.
-====
