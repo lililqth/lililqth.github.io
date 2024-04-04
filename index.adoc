@@ -1,10 +1,9 @@
 :title: Ji Qi's Webpage
-// :author: Ji Qi
 :description: Ji Qi's personal academic homepage.
+:last-update-label!:
 
-
-
-image:prof_pic.jpg[alt="jqi",width=100,height=100, role="related thumb right"]
+// image:prof_pic.jpg[alt="jqi",width=120,height=120, role="related thumb right"]
+image:prof_pic.jpg[alt="jqi",width=120,height=120, role="related right"]
 
 == Ji Qi
 
@@ -13,8 +12,6 @@ https://www.cas.cn/[Chinese Academy of Sciences] +
 Email (work): +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
 
 ---
-
-
 
 I am a research assistant professor at Institute of Software, Chinese Academy of Sciences.
 
@@ -31,7 +28,6 @@ University of Hong Kong (my supervisor is https://i.cs.hku.hk/~heming/[Prof.
 Heming Cui]), where I created secure and high-performance distributed systems
 such as the in-datacenter permissioned blockchain. I received my Master degree
 in School of Software at Tsinghua University, where I worked with
-https://www.thss.tsinghua.edu.cn/faculty/luoguiming.htm[Prof. Kueiming Lo] on
-formal modeling and analysis of network protocols. Before that I received my
-Bachelor degree in School of Software at Beijing Institute of Technology.
-
+https://www.imem.tsinghua.edu.cn/info/1335/2194.htm[Prof. Kueiming Lo] on formal
+modeling and analysis of network protocols. Before that I received my Bachelor
+degree in School of Software at Beijing Institute of Technology.
