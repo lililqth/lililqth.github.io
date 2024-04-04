@@ -1,6 +1,9 @@
 :title: Ji Qi's Webpage
 :description: Ji Qi's personal academic homepage.
-:last-update-label!:
+// :last-update-label!:
+:nofooter:
+
+
 
 // image:prof_pic.jpg[alt="jqi",width=120,height=120, role="related thumb right"]
 image:prof_pic.jpg[alt="jqi",width=120,height=120, role="related right"]
