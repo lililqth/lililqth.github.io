@@ -30,7 +30,25 @@ I received my Ph.D. degree in the Department of Computer Science at The
 University of Hong Kong (my supervisor is https://i.cs.hku.hk/~heming/[Prof.
 Heming Cui]), where I created secure and high-performance distributed systems
 such as the in-datacenter permissioned blockchain. I received my Master degree
-in School of Software at Tsinghua University, where I worked with
-https://www.imem.tsinghua.edu.cn/info/1335/2194.htm[Prof. Kueiming Lo] on formal
-modeling and analysis of network protocols. Before that I received my Bachelor
-degree in School of Software at Beijing Institute of Technology.
+in School of Software at Tsinghua University, where I worked with Prof. Kueiming
+Lo on formal modeling and analysis of network protocols. Before that I received
+my Bachelor degree in School of Software at Beijing Institute of Technology.
+
+
+*Selected Publications:*
+
+* (SOSP '21) BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks, + 
+Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui
+* (SIGMOD '24) Hyper: Achieving High-Performance and Memory-Efficient Learned Index Via Hybrid Construction, + 
+Shunkang Zhang, Ji Qi*, Xin Yao, and ANDRE BRINKMANN, *Co-first author, equal contribution
+* (ATC '22) SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, + 
+Tianxiang Shen, Ji Qi*, Jianyu Jiang, Xian Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo, Fengwei Zhang, Heming Cui, *Co-first author, equal contribution
+* (TCAD '24) D-Linker: Debloating Shared Libraries by Relinking From Object Files, +
+Jiatai He, Pengpeng Hou, Jiageng Yu, Ji Qi*, Ying Sun, Lijuan Li, RuiLin Zhao, and Yanjun Wu, *Corresponding Author
+* (Micro '22) CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments, + 
+Jianyu Jiang, Qi Ji, Tianxiang Shen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui
+* (ICPADS '24) Privacy-preserving Compression for Efficient Collaborative Inference, +, 
+Yuzhe Luo, Ji Qi*, Jiageng Yu, Ruizhi Chen, Ke Gao, Ling Li, *Corresponding Author
+
+* (TVT '19) Formal Codesign and Implementation for Multifunction Vehicle Bus Circuits, + 
+Ji Qi, and Kueiming Lo
