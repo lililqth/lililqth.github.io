@@ -16,7 +16,7 @@ Email (work): +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!<
 
 ---
 
-I am a research assistant professor at Institute of Software, Chinese Academy of Sciences.
+I am an assistant professor at Institute of Software, Chinese Academy of Sciences.
 
 *Research Interests:*
 
