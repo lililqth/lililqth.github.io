@@ -37,6 +37,8 @@ my Bachelor degree in School of Software at Beijing Institute of Technology.
 
 *Selected Publications:*
 
+* (Sigmetrics '24) Beaver: A High-Performance and Crash-Consistent File System Cache via PM-DRAM Collaborative Memory Tiering, + 
+Qinglin Pan, Ji Qi*, Jiatai He, Heng Zhang, Jiageng Yu, Yanjun Wu, *Corresponding Author
 * (SOSP '21) BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks, + 
 Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui
 * (SIGMOD '24) Hyper: Achieving High-Performance and Memory-Efficient Learned Index Via Hybrid Construction, + 
