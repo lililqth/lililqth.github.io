@@ -49,8 +49,5 @@ Tianxiang Shen, Ji Qi*, Jianyu Jiang, Xian Wang, Siyuan Wen, Xusheng Chen, Shixi
 Jiatai He, Pengpeng Hou, Jiageng Yu, Ji Qi*, Ying Sun, Lijuan Li, RuiLin Zhao, and Yanjun Wu, *Corresponding Author
 * (Micro '22) CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments, + 
 Jianyu Jiang, Ji Qi, Tianxiang Shen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui
-* (ICPADS '24) Privacy-preserving Compression for Efficient Collaborative Inference, + 
-Yuzhe Luo, Ji Qi*, Jiageng Yu, Ruizhi Chen, Ke Gao, Ling Li, *Corresponding Author
-
 * (TVT '19) Formal Codesign and Implementation for Multifunction Vehicle Bus Circuits, + 
 Ji Qi, and Kueiming Lo
