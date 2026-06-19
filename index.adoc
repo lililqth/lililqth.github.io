@@ -1,63 +1,71 @@
+= Ji Qi (齐冀)
 :title: Ji Qi's Webpage
 :description: Ji Qi's personal academic homepage.
-// :last-update-label!:
 :nofooter:
+:sectanchors:
+:sectids!:
 
-
-
-// image:prof_pic.jpg[alt="jqi",width=120,height=120, role="related thumb right"]
-image:prof_pic.jpg[alt="jqi",width=120,height=120, role="related right"]
-
-== Ji Qi (齐冀)
+image:prof_pic.jpg[Ji Qi,width=132,height=132,role="portrait right"]
 
 http://www.is.cas.cn/[Institute of Software] +
-https://www.cas.cn/[Chinese Academy of Sciences] +
-Email (work): +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
+https://www.cas.cn/[Chinese Academy of Sciences]
 
----
+Email: +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
 
-I am an assistant professor at Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所).
+I am an assistant professor at the Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所).
 
-*Research Interests:*
+== Research
 
-I am broadly interested in designing secure and high-performance computer systems 
-such as operating systems, distributed systems, and network systems. 
-Recently, I have been focusing on the operating system support for
-heterogeneous multi-processor architecture.
+I am broadly interested in designing secure and high-performance computer systems, including operating systems, distributed systems, and network systems. Recently, I have been focusing on operating-system support for heterogeneous multi-processor architectures.
 
-*Previously:*
+== Biography
 
-I received my Ph.D. in Computer Science from The
-University of Hong Kong (my supervisor is https://i.cs.hku.hk/~heming/[Prof.
-Heming Cui]), where I created secure and high-performance distributed systems
-such as the in-datacenter permissioned blockchain. 
-Prior to that, I received my Master degree
-from Tsinghua University, where I worked with Prof. Kueiming
-Lo on formal modeling and analysis of network protocols. Before that I received
-my Bachelor degree from Beijing Institute of Technology.
+I received my Ph.D. in Computer Science from The University of Hong Kong, advised by https://i.cs.hku.hk/~heming/[Prof. Heming Cui], where I created secure and high-performance distributed systems such as in-datacenter permissioned blockchains.
 
+Before that, I received my master's degree from Tsinghua University, where I worked with Prof. Kueiming Lo on formal modeling and analysis of network protocols. I received my bachelor's degree from Beijing Institute of Technology.
 
-*Selected Publications:*
+== Selected Publications
 
-* (ICDE '26) Geco: A Confidentiality-Preserving and High-Performance Permissioned Blockchain Framework for General Smart Contracts, +
-Songxiao Guo, Rongxin Guan, Ji Qi*, Zongyuan Zhang, Tianyang Duan, Sen Wang, Yanjun Wu, Heming Cui, *Corresponding Author +
-* (EuroSys '26) Chimera: Transparent and High-Performance ISAX Heterogeneous Computing via Binary Rewriting, +
-Jiatai He, Qinglin Pan, Ruilin Zhao, Ji Qi*, Kaiwen Liang, Jiahao Xu, Zhiyuan Li, Yuexiang Wang, Jiageng Yu, Yanjun Wu, *Corresponding Author +
-* (TPDS '25) Chorus: Robust Multitasking Local Client-Server Collaborative Inference with Wi-Fi 6 for AIoT Against Stochastic Congestion Delay, +
-Yuzhe Luo, Ji Qi*, Ling Li*, Ruizhi Chen, Xiaoyu Wu, Limin Cheng, Chen Zhao, *Corresponding Author +
-* (TKDE '25) ECStore:Achieving Efficient and Compressible Indexing on Outsourced Encrypted Databases, +
-Tianxiang Shen, Ji Qi*, Ning Jia, Haoze Song, Xiapu Luo, Sen Wang, Heming Cui, *Corresponding Author +
-* (Sigmetrics '25, Best Student Paper) Beaver: A High-Performance and Crash-Consistent File System Cache via PM-DRAM Collaborative Memory Tiering, + 
-Qinglin Pan, Ji Qi*, Jiatai He, Heng Zhang, Jiageng Yu, Yanjun Wu, *Corresponding Author +
-* (TCAD '24) D-Linker: Debloating Shared Libraries by Relinking From Object Files, + 
-Jiatai He, Pengpeng Hou, Jiageng Yu, Ji Qi*, Ying Sun, Lijuan Li, RuiLin Zhao, and Yanjun Wu, *Corresponding Author
-* (SIGMOD '24) Hyper: Achieving High-Performance and Memory-Efficient Learned Index Via Hybrid Construction, + 
-Shunkang Zhang, Ji Qi*, Xin Yao, and ANDRE BRINKMANN, *Co-first author, equal contribution
-* (ATC '22) SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, + 
-Tianxiang Shen, Ji Qi*, Jianyu Jiang, Xian Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo, Fengwei Zhang, Heming Cui, *Co-first author, equal contribution
-* (Micro '22) CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments, + 
-Jianyu Jiang, Ji Qi, Tianxiang Shen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui
-* (SOSP '21) BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks, + 
-Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui
-* (TVT '19) Formal Codesign and Implementation for Multifunction Vehicle Bus Circuits, + 
-Ji Qi, and Kueiming Lo
+* *ICDE '26* +
+_Geco: A Confidentiality-Preserving and High-Performance Permissioned Blockchain Framework for General Smart Contracts_ +
+Songxiao Guo, Rongxin Guan, *Ji Qi**, Zongyuan Zhang, Tianyang Duan, Sen Wang, Yanjun Wu, Heming Cui. *Corresponding Author*
+
+* *EuroSys '26* +
+_Chimera: Transparent and High-Performance ISAX Heterogeneous Computing via Binary Rewriting_ +
+Jiatai He, Qinglin Pan, Ruilin Zhao, *Ji Qi**, Kaiwen Liang, Jiahao Xu, Zhiyuan Li, Yuexiang Wang, Jiageng Yu, Yanjun Wu. *Corresponding Author*
+
+* *TPDS '25* +
+_Chorus: Robust Multitasking Local Client-Server Collaborative Inference with Wi-Fi 6 for AIoT Against Stochastic Congestion Delay_ +
+Yuzhe Luo, *Ji Qi**, Ling Li*, Ruizhi Chen, Xiaoyu Wu, Limin Cheng, Chen Zhao. *Corresponding Author*
+
+* *TKDE '25* +
+_ECStore: Achieving Efficient and Compressible Indexing on Outsourced Encrypted Databases_ +
+Tianxiang Shen, *Ji Qi**, Ning Jia, Haoze Song, Xiapu Luo, Sen Wang, Heming Cui. *Corresponding Author*
+
+* *SIGMETRICS '25, Best Student Paper* +
+_Beaver: A High-Performance and Crash-Consistent File System Cache via PM-DRAM Collaborative Memory Tiering_ +
+Qinglin Pan, *Ji Qi**, Jiatai He, Heng Zhang, Jiageng Yu, Yanjun Wu. *Corresponding Author*
+
+* *TCAD '24* +
+_D-Linker: Debloating Shared Libraries by Relinking From Object Files_ +
+Jiatai He, Pengpeng Hou, Jiageng Yu, *Ji Qi**, Ying Sun, Lijuan Li, Ruilin Zhao, Yanjun Wu. *Corresponding Author*
+
+* *SIGMOD '24* +
+_Hyper: Achieving High-Performance and Memory-Efficient Learned Index via Hybrid Construction_ +
+Shunkang Zhang, *Ji Qi**, Xin Yao, Andre Brinkmann. *Co-first author, equal contribution*
+
+* *ATC '22* +
+_SOTER: Guarding Black-box Inference for General Neural Networks at the Edge_ +
+Tianxiang Shen, *Ji Qi**, Jianyu Jiang, Xian Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo, Fengwei Zhang, Heming Cui. *Co-first author, equal contribution*
+
+* *MICRO '22* +
+_CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments_ +
+Jianyu Jiang, Ji Qi, Tianxiang Shen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui.
+
+* *SOSP '21* +
+_BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks_ +
+Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui.
+
+* *TVT '19* +
+_Formal Codesign and Implementation for Multifunction Vehicle Bus Circuits_ +
+Ji Qi, Kueiming Lo.
