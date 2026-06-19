@@ -1,16 +1,19 @@
-= Ji Qi (齐冀)
 :title: Ji Qi's Webpage
 :description: Ji Qi's personal academic homepage.
 :nofooter:
 :sectanchors:
 :sectids!:
 
-image:prof_pic.jpg[Ji Qi,width=132,height=132,role="portrait right"]
+image:prof_pic.jpg[Ji Qi,width=132,height=132,role="related right"]
+
+== Ji Qi (齐冀)
 
 http://www.is.cas.cn/[Institute of Software] +
 https://www.cas.cn/[Chinese Academy of Sciences]
 
-Email: +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
+Email (work): +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
+
+---
 
 I am an assistant professor at the Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所).
 
