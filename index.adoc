@@ -1,17 +1,20 @@
 :title: Ji Qi's Webpage
 :description: Ji Qi's personal academic homepage.
+:docinfo: shared
+:webfonts!:
+:source-highlighter!:
 :nofooter:
 :sectanchors:
 :sectids!:
 
-image:prof_pic.jpg[Ji Qi,width=132,height=132,role="related right"]
+image:prof_pic.jpg[Ji Qi,width=132,role="related right"]
 
 == Ji Qi (齐冀)
 
-http://www.is.cas.cn/[Institute of Software] +
+https://www.is.cas.cn/[Institute of Software] +
 https://www.cas.cn/[Chinese Academy of Sciences]
 
-Email (work): +++<span style="display: none" aria-hidden="true">PLEASE GO AWAY!</span> qiji@<!-- sdfjsdhfkjypcs -->iscas.ac.cn+++
+Email (work): mailto:qiji@iscas.ac.cn[qiji@iscas.ac.cn]
 
 ---
 
@@ -41,11 +44,15 @@ Jiatai He, Qinglin Pan, Ruilin Zhao, *Ji Qi**, Kaiwen Liang, Jiahao Xu, Zhiyuan 
 _Chorus: Robust Multitasking Local Client-Server Collaborative Inference with Wi-Fi 6 for AIoT Against Stochastic Congestion Delay_ +
 Yuzhe Luo, *Ji Qi**, Ling Li*, Ruizhi Chen, Xiaoyu Wu, Limin Cheng, Chen Zhao. *Corresponding Author*
 
+* *TSC '25* +
+_Slarm: SLA-Aware, Reliable and Efficient Transaction Dissemination for Permissioned Blockchains_ +
+*Ji Qi*, Tianxiang Shen, Jianyu Jiang, Xusheng Chen, Xiapu Luo, Fengwei Zhang, Heming Cui.
+
 * *TKDE '25* +
 _ECStore: Achieving Efficient and Compressible Indexing on Outsourced Encrypted Databases_ +
 Tianxiang Shen, *Ji Qi**, Ning Jia, Haoze Song, Xiapu Luo, Sen Wang, Heming Cui. *Corresponding Author*
 
-* *SIGMETRICS '25, Best Student Paper* +
+* *SIGMETRICS '25, Best Student Paper (1st in China)* +
 _Beaver: A High-Performance and Crash-Consistent File System Cache via PM-DRAM Collaborative Memory Tiering_ +
 Qinglin Pan, *Ji Qi**, Jiatai He, Heng Zhang, Jiageng Yu, Yanjun Wu. *Corresponding Author*
 
@@ -63,12 +70,12 @@ Tianxiang Shen, *Ji Qi**, Jianyu Jiang, Xian Wang, Siyuan Wen, Xusheng Chen, Shi
 
 * *MICRO '22* +
 _CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments_ +
-Jianyu Jiang, Ji Qi, Tianxiang Shen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui.
+Jianyu Jiang, *Ji Qi*, Tianxiang Shen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui.
 
 * *SOSP '21* +
 _BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks_ +
-Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui.
+*Ji Qi*, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui.
 
 * *TVT '19* +
 _Formal Codesign and Implementation for Multifunction Vehicle Bus Circuits_ +
-Ji Qi, Kueiming Lo.
+*Ji Qi*, Kueiming Lo.
