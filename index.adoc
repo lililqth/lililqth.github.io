@@ -18,7 +18,7 @@ Email (work): mailto:qiji@iscas.ac.cn[qiji@iscas.ac.cn]
 
 ---
 
-I am an assistant professor at the Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所).
+I am an Associate Professor at the Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所).
 
 == Research
 
